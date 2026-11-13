@@ -6,12 +6,15 @@
 |---|---|---|
 | HOME | `/index.html` | コンセプト、各ページへの導線 |
 | 研究室紹介 | `/about.html` | 研究方針、設備、錯視、インタビュー |
-| メンバー | `/members.html` | 教員・学生、研究テーマ |
+| メンバー | `/members.html` | 教員・学生 |
+| 学生の論文 | `/members/g-thesis.html` | 研究テーマ |
+| 教員の論文 | `/members/p-thesis.html` | 教員の研究 |
+| 進路 | `/future.html` | 卒業進路 |
 | ゼミ一覧 | `/seminar/index.html` | ゼミ概要、各ゼミへのリンク |
 | デザインゼミ | `/seminar/design.html` | 檜皮、感性デザイン |
 | VRゼミ | `/seminar/vr.html` | 拡大率関数、距離感、VR |
 | モーションゼミ | `/seminar/motion.html` | 仮現運動、骨格推定 |
-| モーションシャープニングゼミ | `/seminar/motionsharpening.html` | モーションシャープニング |
+| モーションシャープニングゼミ | `/seminar/m-sharp.html` | モーションシャープニング |
 | イベント | `/events.html` | 学会、山登り、バドミントン、年間行事 |
 | 配属希望者向け | `/join.html` | 研究テーマ、動画、先輩の声、1週間 |
 | 先生の個人的な情報 | `/profile.html` | 先生の趣味など |
